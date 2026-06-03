@@ -1,13 +1,12 @@
 <div align="center">
 
-♡ ♥ ♡ ♥ ♡
 
 # Hi! I'm KenUcyRay ✨
 
 ![](https://img.shields.io/badge/🇮🇩_Web_Developer_from_Indonesia-ff6fa8?style=for-the-badge&labelColor=ff9ecb)
 ![](https://img.shields.io/badge/💻_Frontend_&_Full--Stack-c77dff?style=for-the-badge&labelColor=e0aaff)
 
-Passionate about building beautiful web experiences using **React, Laravel, Livewire** & **Filament**. 💕  
+Passionate about building beautiful web experiences using **React, Laravel** & **Vue or Typescript**. 💕  
 Exploring **Full-Stack Development** — from crafting clean UIs to building solid backends.
 
 </div>
@@ -20,7 +19,7 @@ Exploring **Full-Stack Development** — from crafting clean UIs to building sol
 - 🎨 Focused on **Frontend Development** with React
 - 🔧 Also exploring the **backend** side of things
 - 📧 Reach me at **aufafa1508@gmail.com**
-- 💕 Loves **K-Pop** & building cute web apps
+- 💕 The Man Who Loves **TWICE**
 
 ---
 
@@ -43,6 +42,5 @@ Exploring **Full-Stack Development** — from crafting clean UIs to building sol
 ---
 
 <div align="center">
-  ♡ ♥ ♡ ♥ ♡ ♥ ♡ <br>
   <sub>made with love & TWICE energy 🍭</sub>
 </div>
