@@ -15,7 +15,6 @@ Exploring **Full-Stack Development** — from crafting clean UIs to building sol
 
 ### 💖 About Me
 
-- 🎓 Currently studying at **SMKN 2 Kota Sukabumi**
 - 🎨 Focused on **Frontend Development** with React
 - 🔧 Also exploring the **backend** side of things
 - 📧 Reach me at **aufafa1508@gmail.com**
