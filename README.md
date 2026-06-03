@@ -35,7 +35,7 @@ Currently diving deeper into **Full-Stack Development** to enhance frontend & ba
 
 ### 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-ff6fa8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayonedrive1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ff6fa8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aufafa1508@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-c77dff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KenUcyRay)
 
 ---
