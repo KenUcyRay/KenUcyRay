@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi! I'm KenUcyRay ✨
+# Hi! I'm KenUcyRay AKA Aufa Azhar✨
 
 ![](https://img.shields.io/badge/🇮🇩_Web_Developer_from_Indonesia-ff6fa8?style=for-the-badge&labelColor=ff9ecb)
 ![](https://img.shields.io/badge/💻_Frontend_&_Full--Stack-c77dff?style=for-the-badge&labelColor=e0aaff)
