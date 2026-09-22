@@ -1,7 +1,7 @@
 
 I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and **TypeScript** — exploring Full-Stack Development from polished UIs to solid backends.
 
-📧 **aufafa1508@gmail.com**
+📧 **aufafa1508.io@gmail.com**
 
 </td>
 <td width="45%" valign="top" align="center">
