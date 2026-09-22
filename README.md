@@ -1,7 +1,7 @@
 
 I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and **TypeScript** — exploring Full-Stack Development from polished UIs to solid backends.
 
-📧 **aufafa1508.io@gmail.com**
+📧 **aufafa1508@gmail.com**
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -31,6 +31,14 @@ I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and 
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:000000&height=120&section=header&text=AUFA%20AZHAR&fontSize=40&fontColor=FF3333&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
 ### `> contribution_grid`
 
 <div align="center">
@@ -45,14 +53,14 @@ I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and 
 
 ### `> stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenUcyRay&show_icons=true&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=0D0D0D" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KenUcyRay&show_icons=true&hide_border=true&theme=dark&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=0D0D0D" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### `> streak`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenUcyRay&hide_border=true&background=0D0D0D&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenUcyRay&hide_border=true&background=0D0D0D&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&currStreakNum=FFFFFF" width="100%"/>
 
 </td>
 </tr>
