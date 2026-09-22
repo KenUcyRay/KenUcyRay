@@ -53,7 +53,7 @@ I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and 
 
 ### `> stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenUcyRay&show_icons=true&hide_border=true&theme=dark&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=0D0D0D" width="100%"/>
+<img src="https://github-readme-stats-kenucyray.vercel.app/api?username=KenUcyRay&show_icons=true&hide_border=true&theme=dark&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=0D0D0D" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
