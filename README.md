@@ -1,53 +1,72 @@
+
+I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and **TypeScript** — exploring Full-Stack Development from polished UIs to solid backends.
+
+📧 **aufafa1508@gmail.com**
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF3333&background=0D0D0D00&center=true&vCenter=true&width=400&lines=Frontend+Developer;Full-Stack+Explorer;React+%7C+Laravel+%7C+Vue" alt="Typing SVG" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> tech_stack`
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aufa+Azhar;Web+Developer;Frontend+%26+Full-Stack" alt="Typing SVG" />
-
-![](https://img.shields.io/badge/🇮🇩_Web_Developer-ff6fa8?style=for-the-badge&labelColor=ff9ecb)
-![](https://img.shields.io/badge/💻_Frontend_&_Full--Stack-c77dff?style=for-the-badge&labelColor=e0aaff)
-
-Building clean, modern web experiences with **React, Laravel**, **Vue**, and **TypeScript**.
-Exploring Full-Stack Development — from crafting polished UIs to building solid backends.
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF3333)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF3333)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF3333)
+![Vue](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=FF3333)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF3333)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF3333)
+![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=FF3333)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF3333)
 
 </div>
 
 ---
 
-### About Me
-
-- 🎨 Focused on **Frontend Development** with React
-- 🔧 Also exploring the **backend** side of things (Laravel, Livewire)
-- 📧 Reach me at **aufafa1508@gmail.com**
-- 🌱 Currently deepening my full-stack skills
-
----
-
-### Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=KenUcyRay&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenUcyRay&theme=radical&hide_border=true" width="48%" />
-
----
-
-### Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-ff6fa8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aufafa1508@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-c77dff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KenUcyRay)
-
----
+### `> contribution_grid`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=2000&color=8888FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!" alt="Footer" />
+<img src="https://raw.githubusercontent.com/KenUcyRay/KenUcyRay/output/snake.svg" alt="snake animation" width="90%"/>
 </div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `> stats`
+
+<img src="https://github-readme-stats.vercel.app/api?username=KenUcyRay&show_icons=true&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=0D0D0D" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+### `> streak`
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenUcyRay&hide_border=true&background=0D0D0D&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3333)](mailto:aufafa1508@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3333)](https://github.com/KenUcyRay)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:0D0D0D&height=80&section=footer"/>
