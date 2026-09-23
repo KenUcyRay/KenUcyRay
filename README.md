@@ -1,7 +1,3 @@
-
-I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and **TypeScript** — exploring Full-Stack Development from polished UIs to solid backends.
-
-</td>
 <td width="45%" valign="top" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF3333&background=0D0D0D00&center=true&vCenter=true&width=400&lines=Frontend+Developer;Full-Stack+Explorer;React+%7C+Laravel+%7C+Vue" alt="Typing SVG" />
@@ -34,6 +30,12 @@ I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B0000,100:000000&height=120&section=header&text=AUFA%20AZHAR&fontSize=40&fontColor=FF3333&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
+
+---
+
+### `> about_me`
+
+I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and **TypeScript** — exploring Full-Stack Development from polished UIs to solid backends.
 
 ---
 
