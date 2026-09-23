@@ -18,6 +18,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=FF3333)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF3333)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF3333)
+![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=FF3333)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF3333)
 
 </div>
@@ -34,7 +35,24 @@
 
 ### `> about_me`
 
-I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and **TypeScript** — exploring Full-Stack Development from polished UIs to solid backends.
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=FFFFFF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=I+build+clean%2C+modern+web+experiences;React+%7C+Laravel+%7C+Vue+%7C+TypeScript;From+polished+UIs+to+solid+backends" alt="About Me Typing SVG" />
+
+<br/>
+
+> **I build clean, modern web experiences** with `React`, `Laravel`, `Vue`, and `TypeScript`
+> — exploring **Full-Stack Development** from *polished UIs* to *solid backends*.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
