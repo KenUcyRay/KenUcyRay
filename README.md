@@ -72,7 +72,7 @@ I build clean, modern web experiences with **React**, **Laravel**, **Vue**, and 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3333)](mailto:aufafa1508@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3333)](mailto:aufafa1508.io@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3333)](https://github.com/KenUcyRay)
 
 </div>
