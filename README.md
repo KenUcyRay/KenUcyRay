@@ -18,7 +18,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=FF3333)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF3333)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF3333)
-![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=FF3333)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF3333)
 
 </div>
